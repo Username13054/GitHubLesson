@@ -9,7 +9,7 @@ helllo
 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
-**Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
+**Species studied:** Gentoo, Chinstrap, and Adelie penguins. hello??
 
 **Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
 
@@ -24,9 +24,9 @@ The dataset includes the following morphological measurements:
 | Variable | Range |
 |----------|-------------|
 | `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
 | `body_mass_g` | [TODO: Include range] |
+| `flipper_length_mm` | [TODO: Include range] |
+| `bill_depth_mm` | [TODO: Include range] |
 
 ## What the Analysis Does
 
